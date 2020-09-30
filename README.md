@@ -6,3 +6,6 @@ In this tutorial I will show you how to create a simple responsive HTML email wh
 Source files for the Tuts+ tutorial: [Creating a Simple Responsive HTML Email](http://enva.to/16YygSy)
 
 [View the demo](http://tutsplus.github.io/a-simple-responsive-html-email/HTML/index.html)
+
+
+Use Bootstrap to a default CSS without writing a single code but please add the className in the tags of Html 
