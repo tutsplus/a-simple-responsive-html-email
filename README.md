@@ -1,8 +1,8 @@
-## Tuts+ Tutorial: A Simple Responsive HTML Email
+# Tuts+ Tutorial: [A Simple Responsive HTML Email](https://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
 ### Instructor: Nicole Merlin
 
-In this tutorial I will show you how to create a simple responsive HTML email which will work in every email client, including all the new smartphone mail clients and apps. It uses minimal media queries and a fluid width approach to ensure maximum compatibility.
+In this tutorial (completely updated in 2021) I will show you how to create a simple responsive HTML email which will work in every email client, including the more troublesome mobile and tablet apps. It uses minimal media queries and a “fluid hybrid” approach to ensure maximum compatibility.
 
-Source files for the Tuts+ tutorial: [Creating a Simple Responsive HTML Email](http://enva.to/16YygSy)
+Source files for the Tuts+ tutorial: [Creating a Simple Responsive HTML Email](https://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
 
-[View the demo](http://tutsplus.github.io/a-simple-responsive-html-email/HTML/index.html)
+[View the demo on Codepen](https://codepen.io/tutsplus/pen/BaBQgGZ?editors=1010)
